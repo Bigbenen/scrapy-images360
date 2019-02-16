@@ -14,6 +14,6 @@
 
 结果展示：
 
-<img align="center" src="https://github.com/Bigbenen/scrapy-images360/blob/master/aa.png"  >
+<img align="center" src="https://github.com/Bigbenen/scrapy-images360/blob/master/aa.png" width=50%  >
 
-<img align="right" src="https://github.com/Bigbenen/scrapy-images360/blob/master/a.jpg" width=50% >
+<img src="https://github.com/Bigbenen/scrapy-images360/blob/master/a.jpg" width=50% >
